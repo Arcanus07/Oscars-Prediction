@@ -15,7 +15,7 @@ But what are the factors that could increase your chances to win the award for B
 
 ## Motivation
 
-When lockdown came into effect the movie industry was one of those that took a punch to the gut. With theaters closing and movies stopping production, there was no chance that we were going to have an award session during the pandemic. But this is where I wondered how the Academy Awards actually worked. Upon reading up on [Preferential Ballot] (https://en.wikipedia.org/wiki/Preferential_voting), what I wanted to know were the features that were subconsciously contributing to a movie being selected. And that's how I went ahead and thought of making this project.
+When lockdown came into effect the movie industry was one of those that took a punch to the gut. With theaters closing and movies stopping production, there was no chance that we were going to have an award session during the pandemic. But this is where I wondered how the Academy Awards actually worked. Upon reading up on [Preferential Ballot](https://en.wikipedia.org/wiki/Preferential_voting), what I wanted to know were the features that were subconsciously contributing to a movie being selected. And that's how I went ahead and thought of making this project.
 
 ## Data
 
