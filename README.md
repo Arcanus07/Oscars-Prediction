@@ -2,7 +2,7 @@
 
 Best Picture Prediction for the Oscars.
 
-[Oscars Image]
+![alt text](https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/oscars-award.png)
 
 ## Intro
 
