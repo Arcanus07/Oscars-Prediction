@@ -88,3 +88,17 @@ Here, we increase the amount of the minority labels by creating synthetic data
 
 
 ## Results
+
+I have used ROC AUC score as the metric of evaluation here.
+
+### Downsampling
+With downsampling, I obtain a roc_auc_score of 0.922
+<p align="center">
+  <img src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/downsampling_score.png">
+</p>
+
+### Oversampling
+With upsampling, I obtained a roc_auc_scpre of 0.983
+<p align="center">
+  <img src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/oversampling%20score.png">
+</p>
