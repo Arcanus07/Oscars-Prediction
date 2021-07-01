@@ -65,7 +65,18 @@ A large number of relatively uncorrelated models (trees) operating as a committe
 ## Problems With Data
 
 What we have here is an [Imbalanced Dataset](https://www.kaggle.com/getting-started/100018). By this I mean, the amount of records of one class are much more than another. Here, the amount of movies that failed to win the Oscars is much more than those that won (obviously).
+
 Why would this be a problem you ask? Well think about it. If 99% of your classification labels are 0s, and the remaining 1% are 1s, even if your model constantly predicts 0 for all records, you get an accuracy of 99%. 
+
+In our situation the distribution of the labels is as follows
+
+<p align="center">
+  <img src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/data_distribution.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/data_distribution_graph.png">
+</p>
 
 There are two ways I have tried to deal with this issue.
 
