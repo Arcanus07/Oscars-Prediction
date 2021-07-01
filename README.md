@@ -3,10 +3,8 @@
 Best Picture Prediction for the Oscars.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/oscars-award.png">
+  <img src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/oscars-award.png">
 </p>
-
-![oscars award image](https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/oscars-award.png)
 
 ## Intro
 
