@@ -34,7 +34,7 @@ In this project I've used the scikit-learn implementation of [Random Forest Clas
 ### Decision Tree
 Let us first go over decision trees as they are the building blocks of the random forest model. It’ll be much easier to understand how a decision tree works through an example.
 
-![decision tree example]()
+![decision tree example](https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/decision%20tree%20example.png)
 
 Imagine that our dataset consists of the numbers at the top of the figure to the left. We have two 1s and five 0s (1s and 0s are our classes) and desire to separate the classes using their features. The features are color (red vs. blue) and whether the observation is underlined or not. 
 
@@ -47,7 +47,7 @@ The two 1s that are underlined go down the Yes subbranch and the 0 that is not u
 ### Random Forest Classifier
 Random forest, like its name implies, consists of a large number of individual decision trees that operate as an ensemble. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction (see figure below).
 
-![random forest description]()
+![random forest description](https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/random%20forest.png)
 
 The fundamental concept behind random forest is a simple but powerful one — the wisdom of crowds. In data science speak, the reason that the random forest model works so well is:
 
