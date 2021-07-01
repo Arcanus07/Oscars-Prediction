@@ -102,3 +102,7 @@ With upsampling, I obtained a roc_auc_scpre of 0.983
 <p align="center">
   <img src="https://github.com/Arcanus07/Oscars-Prediction/blob/main/Images/oversampling%20score.png">
 </p>
+
+
+## Possible Updates
+A model could be developed that could emulate the Preferential Ballot method mentioned above.
