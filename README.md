@@ -20,8 +20,11 @@ When lockdown came into effect the movie industry was one of those that took a p
 ## Data
 
 The data used in this project was obtained from varrious publicly avalaible websites which are listed below. 
+
 The list of movies that were either nominated or won the Oscar's best picture award was scraped from [Oscars Best Picture](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture)
+
 Dataset of other movies was obtained from [IMDB Movies Dataset](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+
 Any missing information in the above two datasets was obtained using [OMDB API](https://www.omdbapi.com/)
 
 ## Modelling
